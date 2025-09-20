@@ -1,0 +1,7 @@
+{
+  "name": "Mi Kit de Bienestar Facial",
+  "description": "Una aplicación de apoyo para personas con parálisis facial, que ofrece rutinas de ejercicios, información, herramientas de relajación y seguimiento del progreso para ayudar en el camino hacia la recuperación.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
